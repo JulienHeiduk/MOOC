@@ -1,6 +1,3 @@
-# MOOC
-Liste des MOOC DataScience et Big Data
-
 #DataCamp
 Intro to Python for Data Science: https://www.datacamp.com/courses/intro-to-python-for-data-science
 Intermediate Python for Data Science: https://www.datacamp.com/courses/intermediate-python-for-data-science
